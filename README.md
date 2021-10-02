@@ -4,10 +4,15 @@ My name is Peter and I'm a sophomore Computer Science and Engineering student at
 
 * Python, Javascript, C#, and others...
 * Object Oriented, Functional, and imperative programming,
-* Building Full Stack websites with frameworks like react (frontend) and FastAPI/Flask (backend)
+* Building Full Stack websites with frameworks like React (frontend) and FastAPI/Flask (backend)
 * Database Paradigms (like SQL & MongoDB)
 * Neural Networks in Tensorflow, scikitlearn, etc
 * Image Processing with opencv
 * Algorithmic Stock Trading 
 * Networking 
 * And even a little Quatum Computing with Qiskit
+
+
+
+
+
