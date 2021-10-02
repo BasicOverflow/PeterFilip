@@ -10,7 +10,7 @@ My name is Peter and I'm a sophomore Computer Science and Engineering student at
 * Image Processing with opencv
 * Algorithmic Stock Trading 
 * Networking 
-* And even a little Quatum Computing with Qiskit
+* And even a little Quantum Computing with Qiskit
 
 
 
